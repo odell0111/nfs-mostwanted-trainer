@@ -1,1 +1,3 @@
-# NFS_MostWanted_Trainer
+# NFS MostWanted Trainer
+
+Game Trainer for the version 1.3 of Need For Speed Most Wanted...
