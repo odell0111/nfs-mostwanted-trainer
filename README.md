@@ -6,4 +6,4 @@ Game Trainer for the version 1.3 of Need For Speed Most Wanted 2005...
 </br>
 ![](NFS%20MostWanted%201.3%20Trainer%20by%20Odell.gif)
 
-## [Account Manager 1.0b.rar - Windows x64 [31.1 MB]](NFS%20MostWanted%201.3%20Trainer%20by%20Odell.exe)
+## [NFS MostWanted Trainer.exe - Windows x64 [23.7 MB]](https://github.com/odell0111/NFS_MostWanted_Trainer/blob/main/NFS%20MostWanted%201.3%20Trainer%20by%20Odell.exe)
