@@ -6,3 +6,8 @@ Game Trainer for the version 1.3 of Need For Speed Most Wanted 2005
   <img src="NFS%20MostWanted%201.3%20Trainer%20byOdell.PNG"> <br/><br/>
   <img src="NFS%20MostWanted%201.3%20Trainer%20by%20Odell.gif?raw=true"> <br/><br/>
 </div>
+
+## Visit my other repos
+**[Custom GUI SFX](https://github.com/odell0111/custom-gui-sfx)**</br>
+**[Account Manager](https://github.com/odell0111/account-manager)**</br>
+**[Blur Trainer](https://github.com/odell0111/blur-trainer)**</br>
